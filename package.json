@@ -1,0 +1,22 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "description": "Basic utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Nathan Stromberg",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "fuzzy": "^0.1.3",
+    "inquirer": "^6.4.1",
+    "inquirer-autocomplete-prompt": "^1.0.1",
+    "inquirer-datepicker": "^1.0.0",
+    "moment-timezone": "^0.5.25"
+  }
+}
